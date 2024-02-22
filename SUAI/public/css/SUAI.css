@@ -1,0 +1,357 @@
+
+.position-absolute {
+    text-align: center;
+    font-family: Plus Jakarta Sans;
+    display: inline-flex;
+        flex-direction: column;
+        align-items: center;
+  
+}
+.container {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+    width: auto;
+    height: 97px;
+    top: 619px;
+    
+    text-align: center;
+        font-family: Plus Jakarta Sans;
+}
+
+#agence {
+    color: #0072FF;
+    font-size: 64px;
+    font-weight: 800;
+    line-height: 69px;
+    width: 800px;
+    height: 69px;
+    
+   
+}
+
+#intellegence {
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 72px;
+    width: 825px;
+    height: 72px;
+  
+    
+}
+
+#para {
+    font-family: inter;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+
+}
+
+#watch-demo {
+    width: 220px;
+    height: 56px;
+    top: 214px;
+    left: 533px;
+    padding: 16px;
+    gap: 10px;
+
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+    font-family: Plus Jakarta Sans;
+
+
+}
+
+i {
+    width: 18px;
+    height: 18px;
+    gap: 10px;
+    padding-right: 10px;
+
+}
+
+#Custmers {
+    width: 220px;
+    height: 56px;
+    top: 214px;
+    left: 533px;
+    padding: 16px;
+    gap: 10px;
+
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+    font-family: Plus Jakarta Sans;
+    margin: 19px;
+}
+
+#logo {
+    width: 509, 731px;
+    height: 302, 811px;
+    transform: rotate(-3.586deg);
+    flex-shrink: 0;
+    fill: linear-gradient(90deg, #008BFB 0%, #0567E1 100%);
+    filter: blur(7.550000190734863px);
+}
+.container2 {
+/* Styling for an element with class 'container2' */
+ display: inline-flex;
+flex-direction: column;
+align-items: center;
+gap: 14px;
+width: 1143px;
+height: 97px;
+top: 619px;
+        }
+
+
+
+#aprops {
+    width: 852px;
+    height: 42px;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: normal;
+    font-family: 'DM sans';
+    background: linear-gradient(271deg, #1D4ED8 14.22%, #5AD7FE 106.77%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+  
+}
+
+#assurer {
+    
+    height: 41px;
+    flex-direction: column;
+    justify-content: center;
+    color: rgb(8, 8, 8);
+    text-align: center;
+    font-family: 'Plus Jakarta Sans';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    width: 1143;
+    
+}
+        .container3 {
+            display: inline-flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 14px;
+            width: 1458px;
+            height: 454px;
+            top: 737px;
+            position: absolute;
+    
+    
+        }
+.image-container {
+    width: auto;
+    height: 454px;
+    top: 737px;
+
+}
+#image {
+ 
+    height: 100%;
+    object-fit: cover;
+    width: auto;
+        height: 454px;
+        z-index: 0;
+    /* Optional, to maintain aspect ratio */
+}
+
+.overlay {
+    position: absolute;
+    /* Change to absolute for overlay positioning */
+    margin-top: 30px;
+    margin-bottom: 30px;
+   
+    /* Adjust the top value as needed */
+   right: 50px;
+   left: 50px;
+}
+
+  .box {
+    width: 1273px;
+    height: 526px;
+    top: 161px;
+    border-radius: 10px;
+    background: rgb(255, 253, 253);
+    box-shadow: 0px 24px 164px -20px rgba(98, 107, 238, 0.685);
+    position:absolute;
+    gap: 14px;
+    flex-shrink: 0;
+  
+
+}
+
+#nos {
+    
+    width: 852px;
+    height: 42px;
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: normal;
+    text-align: center;
+    background: linear-gradient(271deg, #1D4ED8 14.22%, #5AD7FE 106.77%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    gap: 20px;
+    
+}
+
+#defi {     
+width: 1143px;
+display: flex;
+height: 107px;
+ flex-direction: column;
+justify-content: center;
+color: #111;
+text-align: center;
+font-family: Plus Jakarta Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 195%;
+gap: 10px;
+        
+    }
+
+
+   
+
+.container4{
+width: 1143px;
+height: 163px;
+top: 1251px;
+gap: 14px;
+text-align: center;
+display: inline-flex;
+position: absolute;
+flex-direction: column;
+align-items: center;
+flex-shrink: 0;   
+}  
+.box {
+width: 1273px;
+height: 526px;
+top: 161px;
+border-radius: 10px;
+background: rgb(255, 253, 253);
+box-shadow: 0px 24px 164px -20px rgba(98, 107, 238, 0.685);
+position: absolute;
+gap: 14px;
+flex-shrink: 0;
+}
+#service{
+    width: 852px;
+    text-align: center;
+    font-family: DM Sans;
+    font-size:32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height:normal;
+    background: linear-gradient(271deg, #1D4ED8 14.22%, #5AD7FE 106.77%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+}
+#notre{
+    display: flex;
+    width: 1143px;
+    height: 107px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #000;
+        text-align: center;
+        font-family: Plus Jakarta Sans;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+       line-height: 39px;
+       
+      
+}
+.card-container {
+    display: flex;
+    justify-content: space-around;
+    /* or space-between for equal spacing */
+    margin-top: 100px;
+}
+
+.card {
+    width: 388.9px;
+    height: 521px;
+    border: 1px;
+    background-color: floralwhite;
+    border-radius: 24px;
+    overflow: hidden;
+    filter: drop-shadow(0px 3px 12.7px rgba(0, 114, 255, 0.33));
+    margin: 10px;
+}
+.container-footer{
+    width: 1440px;
+    height:667px;
+    top: 407px;
+    background: linear-gradient(90deg, rgba(0, 114, 255, 0.20) -0.55%, rgba(0, 114, 255, 0.20) 22.86%, rgba(25, 167, 255, 0.20) 48.36%);
+        backdrop-filter: blur(35px);
+}
+#devis{
+    width: 400px;
+    height: 62px;
+    top: -20px;
+    left: -200px;
+    color: #00239C;
+        font-family: Plus Jakarta Sans;
+        font-size: 52px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 62px;
+       
+
+}
+#rendez{
+    width: 700px;
+        height: 30px;
+        left: -200px;
+        color: #000;
+        
+            font-family: Outfit;
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 145%;
+}
+#button2 {
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 4px;
+    background: #0072FF;
+    box-shadow: 0px 7px 21px 0px rgba(37, 44, 97, 0.20), 0px 3px 8px 0px rgba(136, 144, 194, 0.25);
+    margin-left: -1000px;
+    /* Adjust this value based on your layout */
+}
+#logo2{
+    width: 211px;
+        height: 135.686px;
+        transform: rotate(-4.371deg);
+        flex-shrink: 0;
+        fill: linear-gradient(90deg, #008BFB 0%, #0567E1 100%);
+            filter: blur(7.550000190734863px);
+}
